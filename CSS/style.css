@@ -1,0 +1,97 @@
+body {
+    background-color: #C1D8C3;
+    font-family: cursive;
+}
+hr {
+    background-color: #C1D8C3;
+    border-color: #F99417;
+    border-style: none none dotted ;
+    border-width: 8px;
+    width: 25%; 
+}
+h2,h3 {
+    color: #1AACAC;
+}
+h1 {
+    color: #5D3891;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+li {
+    padding: 10px;
+}
+img {
+    border-radius: 24px;
+}
+/* index.html */
+
+.bio { 
+    padding: 20px 20px;
+    margin: 0 auto;
+}
+.intro {
+    padding: 20px 20px;
+}
+.education {
+    padding: 20px 20px;
+    margin: 0 auto;
+}
+.edu { 
+    margin: 0 auto;
+    text-align: center;
+}
+.work {
+    margin: 0 auto;
+    text-align: center;
+}
+.skills {
+    margin: 0 auto;
+    text-align: center;
+}
+.hobies:hover {
+    text-decoration: none;
+    background-color: #FFCD4B;
+}
+.contact:hover {
+    text-decoration: none;
+    background-color: #FFCD4B;
+}
+.vfvlink:hover {
+    color: crimson;
+}
+
+
+/* contact.html  */
+div.form {
+    margin: 0 auto;
+    padding: 50px 50px;
+    text-align: center;
+}
+div.info {
+    margin: 0 auto;
+    padding: 20px 20px;
+    text-align: center;
+}
+.button {
+    padding: 5px 10px;
+
+}
+.button:hover {
+    background-color: #5D3891;
+    color: white;
+    border: none;
+    border-radius: 12px;
+}
+
+
+/* hobbies.html */
+.hobbies {
+    margin: 100px auto;
+    text-align: center;
+}
+.hobbies ul {
+    display: inline-block;
+    text-align: left;
+}
